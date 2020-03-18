@@ -1,1 +1,1 @@
-# [ChatiX](https://chatixgit.github.io/app/)
+# [ChatiX](https://chatixget.github.io)
